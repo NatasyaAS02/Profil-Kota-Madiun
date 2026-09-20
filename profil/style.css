@@ -33,7 +33,7 @@ header {
     justify-content: space-between;
     align-items: center;
 
-    padding: 25px 60px;
+    padding: 70px 2px;
 }
 
 .logo {
@@ -82,7 +82,7 @@ footer span {
             rgba(0, 0, 0, 0.55),
             rgba(0, 0, 0, 0.55)
         ),
-        url("images/balai.jpg");
+        url("images/balaikota.jpeg");
 
     background-size: cover;
     background-position: center;
